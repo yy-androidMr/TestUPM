@@ -1,0 +1,19 @@
+﻿{
+  "name": "com.ffalcon.rayneo",
+  "displayName": "Ffalcon XR RayNeo SDK",
+  "description": "RayNeo SDK",
+  "version": "1.1.1",
+  "unity": "2020.3",
+  "license": "RAYNEO",
+  "dependencies": {
+    "com.unity.inputsystem": "1.3.0"
+  },
+  "samples": [
+    {
+      "displayName": "Hello RayNeo",
+      "description": "Basic sample, minimal project setup.",
+      "path": "RayNeo~/hellorayneo"
+    }
+  ]
+
+}
